@@ -1,5 +1,5 @@
 import math
-ang = int(input ('Qual o ângulo que cê quer saber?'))
+ang = int(input ('Digite um ângulo:'))
 cos = math.cos (math.radians(ang))
 tang = math.tan(math.radians (ang))
 seno = math.sin(math.radians (ang))
