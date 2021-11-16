@@ -1,0 +1,7 @@
+a = (input ('Qual o seu nome?'))
+print ('O tipo primitivo desse valor é:' ,type (a))
+print ('Só tem espaço nessa porra?' , a.isspace())
+print ('Esse caralho é um número?' , a.isnumeric())
+print ('Esse inferno é letra e número?' , a.isalnum())
+print ('Por acaso tu ta gritando arrombado?' , a.isupper())
+print ('Mlk tu tá de comédia?', a.isdigit())
