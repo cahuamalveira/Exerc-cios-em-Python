@@ -1,4 +1,4 @@
-n = int(input('Digita um número:'))
+n = int(input('Digite um número:'))
 dob = n*2
 tri = n*3
 rqd = n**(1/2)
