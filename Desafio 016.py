@@ -1,3 +1,3 @@
 import math
-n = float(input('Digita um número aí caralho:'))
+n = float(input('Digite um número:'))
 print ('O número {} tem a parte inteira de: {}'.format (n, math.trunc(n)))
