@@ -46,12 +46,3 @@ while True:
             print(f'No jogo {i+1} fez {g} gols')
     print('='*40)
 print('Volte sempre')
-
-#for v in jogador.values():
-        #print(f'O campo {v} tem valor')
-    #print()
-#print(jogador)
-#print('_=_'*25)
-#print(f'O jogador {jogador["nome"]} jogou {len(jogador["gols"])} partidas')
-#for c, n in enumerate(jogador['gols']):
-    #print(f'Na partida {c + 1} o jogador {jogador["nome"]} fez {n} gols')
