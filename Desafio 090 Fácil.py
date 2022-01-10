@@ -10,7 +10,7 @@ if boletim['Média'] >= 6:
 elif 5 <= boletim['Média'] < 6:
     boletim['Situação'] = 'Recuperação'
 else:
-    boletim ['Situação'] = 'Reprovado'
+    boletim['Situação'] = 'Reprovado'
 #print(boletim)
 for a, o in boletim.items():
     print(f'{a} é igual a: {o}')
